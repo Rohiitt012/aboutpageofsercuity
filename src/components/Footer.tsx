@@ -24,6 +24,7 @@ export const Footer: React.FC = () => {
                 src="/images/logo.webp"
                 alt="Advent Security Excellence In Security Logo"
                 fill
+                sizes="208px"
                 className="object-contain object-left"
               />
             </div>

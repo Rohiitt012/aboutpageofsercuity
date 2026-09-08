@@ -288,6 +288,7 @@ export const MediaTrustSectors: React.FC<MediaTrustSectorsProps> = ({ onOpenQuot
                     src={media.image}
                     alt={`${media.name} Logo`}
                     fill
+                    sizes="(max-width: 768px) 100vw, 200px"
                     className="object-contain"
                   />
                 </div>

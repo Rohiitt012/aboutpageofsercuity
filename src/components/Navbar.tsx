@@ -35,6 +35,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenQuoteModal }) => {
                 src="/images/logo.webp"
                 alt="Advent Security Excellence In Security Logo"
                 fill
+                sizes="224px"
                 className="object-contain object-left"
                 priority
               />

@@ -87,6 +87,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
                   src="/images/command_center.jpg"
                   alt="Advent Security 24/7 Command Center"
                   fill
+                  sizes="(max-width: 1024px) 100vw, 500px"
                   className="object-cover group-hover:scale-105 transition-transform duration-700"
                   priority
                 />

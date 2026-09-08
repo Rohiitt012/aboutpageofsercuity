@@ -78,6 +78,7 @@ export const StoryDeepDive: React.FC<StoryDeepDiveProps> = ({ onOpenQuoteModal }
                   src="/images/command_center.jpg"
                   alt="Advent Security EST 1990 Operations Command Center"
                   fill
+                  sizes="(max-width: 1024px) 100vw, 600px"
                   className="object-cover group-hover:scale-105 transition-transform duration-700 brightness-90"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent"></div>
@@ -163,6 +164,7 @@ export const StoryDeepDive: React.FC<StoryDeepDiveProps> = ({ onOpenQuoteModal }
                   src="/images/humble_beginnings.jpg"
                   alt="Advent Security Founded in 1990 Coles Bourke Street Melbourne"
                   fill
+                  sizes="(max-width: 1024px) 100vw, 600px"
                   className="object-cover group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent"></div>
@@ -208,6 +210,7 @@ export const StoryDeepDive: React.FC<StoryDeepDiveProps> = ({ onOpenQuoteModal }
                     src="/images/cctv_tech.jpg"
                     alt="Growing Security Capability CCTV Surveillance Electronic Security"
                     fill
+                    sizes="(max-width: 1024px) 100vw, 600px"
                     className="object-cover group-hover:scale-105 transition-transform duration-700 brightness-90"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-transparent"></div>
@@ -259,6 +262,7 @@ export const StoryDeepDive: React.FC<StoryDeepDiveProps> = ({ onOpenQuoteModal }
                   src="/images/corporate_handshake.jpg"
                   alt="Built By People And Partnerships Long Term Client Trust"
                   fill
+                  sizes="(max-width: 1024px) 100vw, 600px"
                   className="object-cover group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent"></div>
